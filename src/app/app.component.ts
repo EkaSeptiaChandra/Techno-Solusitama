@@ -40,6 +40,11 @@ export class AppComponent {
       title: 'Contact Us',
       url: '/contact-us',
       icon: 'call'
+    },
+    {
+      title: 'Login',
+      url: '/login',
+      icon: 'signin'
     }
   ];
 
